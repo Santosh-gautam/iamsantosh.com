@@ -12,20 +12,19 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHashHistory(),
-    routes,
-    scrollBehavior(to, from, savedPosition) {
+  history: createWebHashHistory(),
+  routes,
+  scrollBehavior(to, from, savedPosition) {
       if (savedPosition) {
-        return savedPosition; // If going back, return to saved position
-      } else {
-        const position = {};
-        if (to.hash) {
-          position.selector = to.hash; // This should match the section ID
-        }
-        return position;
+          return savedPosition;
+      } else if (to.hash) {
+          return { el: to.hash, behavior: 'smooth' };
       }
-    },
-  });
+      // Default to scrolling to top
+      return { top: 0, behavior: 'smooth' };
+  },
+});
+
 
   
 export default router;

@@ -13,11 +13,11 @@
                     I am a Full Stack Developer currently working at WebFort Technologies.
                 </p>
                 <div class="flex justify-center md:justify-start mt-6">
-                    <a href="#" class="mr-5 transform hover:scale-125 transition text-blue-600 dark:text-blue-400">
+                    <a href="https://www.linkedin.com/in/santosh-gautam-20b13b204/" target="_blank" class="mr-5 transform hover:scale-125 transition text-blue-600 dark:text-blue-400">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
                             class="w-10" />
                     </a>
-                    <a href="#" class="mr-5 transform hover:scale-125 transition text-blue-600 dark:text-blue-400">
+                    <a href="https://github.com/santoshgautam2000" target="_blank" class="mr-5 transform hover:scale-125 transition text-blue-600 dark:text-blue-400">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
                             class="w-10" />
                     </a>
