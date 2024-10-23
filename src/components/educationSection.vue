@@ -7,26 +7,26 @@
                 <div class="education-card p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition-transform transform hover:scale-105">
                     <h3 class="text-xl font-semibold mb-2">BCA from IGNOU</h3>
                     <div class="line border-b-2 border-gray-300 dark:border-gray-600 mb-2"></div>
-                    <p class="text-gray-600 dark:text-gray-300">Completed in 2021</p>
+                    <p class="text-gray-600 dark:text-gray-300">Completed in 2025</p>
                 </div>
                 <div class="education-card p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition-transform transform hover:scale-105">
                     <h3 class="text-xl font-semibold mb-2">BA in Political Science Honors</h3>
                     <div class="line border-b-2 border-gray-300 dark:border-gray-600 mb-2"></div>
-                    <p class="text-gray-600 dark:text-gray-300">Completed in 2019</p>
+                    <p class="text-gray-600 dark:text-gray-300">Completed in 2023</p>
                 </div>
                 <div class="education-card p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition-transform transform hover:scale-105">
                     <h3 class="text-xl font-semibold mb-2">ITI in Computer Operator and Programming Assistant</h3>
                     <div class="line border-b-2 border-gray-300 dark:border-gray-600 mb-2"></div>
-                    <p class="text-gray-600 dark:text-gray-300">Completed in 2018</p>
+                    <p class="text-gray-600 dark:text-gray-300">Completed in 2021</p>
                 </div>
                 <div class="education-card p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition-transform transform hover:scale-105">
                     <h3 class="text-xl font-semibold mb-2">12th pass from CBSE</h3>
                     <div class="line border-b-2 border-gray-300 dark:border-gray-600 mb-2"></div>
-                    <p class="text-gray-600 dark:text-gray-300">Completed in 2016</p>
+                    <p class="text-gray-600 dark:text-gray-300">Completed in 2019</p>
                 </div>
                 <div class="education-card p-6 bg-gray-100 dark:bg-gray-800 rounded-lg shadow-md transition-transform transform hover:scale-105">
                     <h3 class="text-xl font-semibold mb-2">10th pass from CBSE</h3>
-                    <p class="text-gray-600 dark:text-gray-300">Completed in 2014</p>
+                    <p class="text-gray-600 dark:text-gray-300">Completed in 2017</p>
                 </div>
             </div>
         </div>
