@@ -4,7 +4,7 @@
         =============================================================== -->
     <section class="bg-gradient-to-r from-gray-100 via-blue-500 to-gray-300 dark:bg-gradient-to-r dark:from-gray-800 dark:via-blue-600 dark:to-gray-900 text-gray-900 dark:text-gray-100 h-screen flex items-center justify-center pt-16">
         <div class="container mx-auto flex flex-col md:flex-row items-center justify-between px-4">
-            <div class="text-center md:text-left grow pl-10">
+            <div class="text-center md:text-left grow lg:pl-10 ">
                 <!-- Typewriter Effect Starts Here -->
                 <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold typewriter-container">
                     <span ref="typewriterText" class="typewriter border-white border-r-2 text-blue-600 dark:text-blue-400"></span>
