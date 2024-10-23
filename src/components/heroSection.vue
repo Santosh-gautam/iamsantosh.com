@@ -40,7 +40,7 @@
 export default {
     data() {
         return {
-            fullText: "Hi, I am Santosh Gautam. Vue Js Developer.", // Full text to type
+            fullText: "Hi, I am Santosh Gautam. Full Stack Developer.", // Full text to type
             displayedText: "", // Displayed text updates letter by letter
             currentIndex: 0, // Keeps track of current character index
         };
